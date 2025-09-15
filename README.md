@@ -38,27 +38,24 @@ polars-netflix-analysis/
 
 ## 🔎 Etapas do Projeto  
 
-### 1️⃣ Setup e Carregamento de Dados  
-- Instalação de dependências.  
-- Leitura inicial com Polars.
-
-### 2️⃣ Limpeza e Transformação  
+### 1️⃣ Limpeza e Transformação  
 - Ajuste de tipos de dados.  
 - Tratamento de valores nulos.  
 - Criação de colunas derivadas (ano, duração em minutos, etc.).
 
-### 3️⃣ Análises Exploratórias  
+### 2️⃣ Análises Exploratórias  
 - Lançamentos por ano.  
 - Filmes vs Séries.  
 - Países que mais produzem conteúdo.  
 - Diretores mais frequentes.
 
-### 4️⃣ Análises Avançadas  
+### 3️⃣ Análises Avançadas  
 - Tendências temporais (crescimento de séries vs filmes).  
 - Relação entre ano de lançamento e volume de títulos.  
 - Cruzamento com dados do IMDb (qualidade x quantidade).
 
-### 5️⃣ Relatórios e Visualizações  
+
+### 4️⃣ Relatórios e Visualizações  
 - Tabelas resumo.  
 - Gráficos (linha, boxplot, heatmap, etc.).  
 - Exportação de relatórios em Markdown/PDF.
