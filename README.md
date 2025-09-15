@@ -12,17 +12,6 @@ Este projeto foi desenvolvido para **explorar e aprender a biblioteca [Polars](h
 
 A ideia é **começar simples** (carregando e limpando dados da Netflix) e **evoluir progressivamente** até análises mais avançadas, comparações de performance e geração de relatórios detalhados.
 
-💡 É um projeto **didático**, mas estruturado para parecer **profissional**, servindo tanto como **portfólio** quanto como **aprendizado prático**.
-
-
-## 🚀 O que você vai encontrar aqui
-
-✔️ Estrutura organizada do projeto (data, notebooks, src, reports).
-✔️ Limpeza e transformação de dados reais da Netflix.
-✔️ Análises exploratórias e avançadas (tendências, diretores, países, etc.).
-✔️ Visualizações gráficas (lançamentos por ano, distribuição de duração, etc.).
-✔️ Relatórios exportáveis em Markdown e PDF.
-✔️ Comparações de performance entre **Polars vs Pandas**.
 
 
 ## 📂 Estrutura do Projeto
@@ -78,12 +67,6 @@ polars-netflix-analysis/
 * Gráficos (linha, boxplot, heatmap, etc.).
 * Exportação de relatórios em Markdown/PDF.
 
-### 6️⃣ **Extra: Performance e Comparações**
-
-* Uso do **lazy mode** do Polars.
-* Comparação com Pandas no mesmo dataset.
-* Salvamento em Parquet e análise de velocidade.
-
 ---
 
 ## 📌 Perguntas que este projeto responde
@@ -114,11 +97,8 @@ jupyter notebook
 
 ## 📑 Resultados Esperados
 
-Ao final, você terá:
 ✅ Dataset limpo e pronto para análise.
 ✅ Relatórios claros e visualmente atrativos.
-✅ Experiência prática com **Polars do básico ao avançado**.
-✅ Um projeto bonito e bem documentado no seu portfólio.
 
 ---
 
