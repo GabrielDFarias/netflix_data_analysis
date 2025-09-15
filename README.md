@@ -96,13 +96,6 @@ polars-netflix-analysis/
 
 ---
 
-## 🖼️ Exemplo de Visualização (placeholder)
-
-![Exemplo de gráfico](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Matplotlib_logo.svg/320px-Matplotlib_logo.svg.png)
-*(Aqui você poderá incluir seus próprios gráficos gerados no projeto)*
-
----
-
 ## ⚡ Como Executar
 
 ```bash
